@@ -280,8 +280,8 @@ public class CourseListTableModel extends AbstractTableModel {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        CourseListGUI courseListGUI2 = new CourseListGUI();
-        courseListGUI2.setVisible(true);
+        CourseListGUI courseListGUI = new CourseListGUI();
+        courseListGUI.setVisible(true);
     }
     
 }
