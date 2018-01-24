@@ -15,7 +15,7 @@ To run the Java program, you will need to edit `line 40` in `CourseListTableMode
 
 ## Demonstration
 
-GUI is displayed when the program begins. Notice that when the user clicks on a row, the text fields are updated:
+The GUI is displayed when the program begins. Notice that when the user clicks on a row, the text fields are updated:
 
 <img width="597" alt="screen shot 2018-01-23 at 5 41 32 pm" src="https://user-images.githubusercontent.com/30678180/35310136-c39523d0-0064-11e8-9251-c404259aa81b.png">
 
