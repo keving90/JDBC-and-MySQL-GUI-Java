@@ -1,6 +1,4 @@
 # JDBC-and-MySQL-GUI-Java
-Creates a MySQL database and connects to it through the JDBC API. 
-
 This project creates a MySQL database and connects to it through the JDBC API. I learned how to create it by following a tutorial written by Radhika Grover for her *Java Programming, Comprehensive* course with UCSC Extension.
 
 This project uses a Model, View, and Controller design pattern to create an interactive GUI that is connected to a MySQL database. Users can add, delete, or update records in the GUI’s table, and these modifications be done to the underlying database as well. After any modifications are done, the GUI will be updated to reflect the changes in the database. The GUI was created using NetBeans. The rest of the code was written using IntelliJ.
